@@ -1,2 +1,3 @@
-# Knowledge_Synchronized_Emulation
-Knowledge Synchronized Machine Learning
+<div align="center">
+
+# Continuous Field Reconstruction from Sparse Observations with Implicit Neural Networks (ICLR 2024)
